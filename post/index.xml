@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 独角兽故事（DJSGS.CN）</title>
+    <link>https://djsgs.cn/post/</link>
+    <description>Recent content in Posts on 独角兽故事（DJSGS.CN）</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 May 2020 20:29:31 +0800</lastBuildDate>
+    
+	<atom:link href="https://djsgs.cn/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>It Is a Begin</title>
+      <link>https://djsgs.cn/post/it-is-a-begin/</link>
+      <pubDate>Sun, 31 May 2020 20:29:31 +0800</pubDate>
+      
+      <guid>https://djsgs.cn/post/it-is-a-begin/</guid>
+      <description>开始就不会晚 </description>
+    </item>
+    
+  </channel>
+</rss>
